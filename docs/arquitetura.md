@@ -6,6 +6,12 @@
 
 ---
 
+## ⚠️ Material Confidencial
+
+**🔒 CONFIDENCIAL** - Agência Cappuccino → Bunge Profissional
+
+---
+
 ## 🎯 Visão Geral
 
 O sistema é composto por 4 componentes principais que trabalham em conjunto para automatizar a criação e envio de emails personalizados.
@@ -145,5 +151,6 @@ mindmap
 ---
 
 <div align="center">
-  <strong>📊 Arquitetura | Gerador de Emails Fornada de Vantagens</strong>
+  <strong>📊 Arquitetura | Gerador de Emails Fornada de Vantagens</strong><br/>
+  <small>🔒 Material Confidencial - Mario Campello para Agência Cappuccino</small>
 </div> 

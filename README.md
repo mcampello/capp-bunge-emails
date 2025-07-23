@@ -5,6 +5,15 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/mcampello/capp-bunge-emails)
 [![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)](docs/cronograma.md)
 [![Versão](https://img.shields.io/badge/Versão-1.0.0-green)](CHANGELOG.md)
+[![Confidencial](https://img.shields.io/badge/Confidencial-Não%20Distribuir-red)](README.md)
+
+---
+
+## ⚠️ Material Confidencial
+
+**🔒 CONFIDENCIAL** - Este material é propriedade da **Agência Cappuccino** e foi desenvolvido sob encomenda para a **Bunge Profissional**. 
+
+**❌ NÃO DEVE SER DISTRIBUÍDO** sem autorização expressa.
 
 ---
 
@@ -96,19 +105,33 @@ Siga o [Cronograma de Implementação](docs/cronograma.md) para as próximas eta
 
 ---
 
-## 🤝 Contribuição
+## 👨‍💻 Autoria e Propriedade
 
-Este projeto está sendo desenvolvido pela equipe CAPP para a Bunge Profissional. Para contribuições:
+### 🎨 Criado por
+**Mario Campello**
+- 🌐 **Website**: [campello.me](https://campello.me)
+- 📱 **WhatsApp**: [11 992630805](https://wa.me/5511992630805)
+- 📧 **Email**: [mario@campello.me](mailto:mario@campello.me)
 
-1. 📋 Consulte as [Issues](https://github.com/mcampello/capp-bunge-emails/issues)
-2. 🔄 Crie um Pull Request
-3. 📧 Entre em contato: mario@codenuts.cc
+### 🏢 Desenvolvido para
+**Agência Cappuccino** → **Bunge Profissional**
+
+Este projeto foi desenvolvido sob encomenda da Agência Cappuccino para atender às necessidades específicas do programa "Fornada de Vantagens" da Bunge Profissional.
 
 ---
 
-## 📄 Licença
+## 📄 Licença e Confidencialidade
 
-Este projeto é propriedade da Bunge Profissional e está sendo desenvolvido pela CAPP.
+### 🔒 Propriedade Intelectual
+- **Proprietário**: Agência Cappuccino
+- **Cliente Final**: Bunge Profissional  
+- **Desenvolvedor**: Mario Campello
+
+### ⚠️ Restrições de Uso
+- ❌ **Distribuição proibida** sem autorização
+- ❌ **Uso comercial restrito** aos proprietários
+- ❌ **Modificação não autorizada**
+- ✅ **Acesso limitado** à equipe do projeto
 
 ---
 
@@ -116,10 +139,12 @@ Este projeto é propriedade da Bunge Profissional e está sendo desenvolvido pel
 
 - 🏢 **[Bunge Profissional](https://www.bungeprofissional.com.br/)**
 - 🎯 **[Fornada de Vantagens](https://www.fornadadevantagens.com.br/)**
-- 🛠️ **[CAPP](https://codenuts.cc/)**
+- 🎨 **[Agência Cappuccino](https://agenciacappuccino.com.br/)**
+- 👨‍💻 **[Mario Campello](https://campello.me/)**
 
 ---
 
 <div align="center">
-  <strong>Desenvolvido com ❤️ pela equipe CAPP</strong>
+  <strong>Desenvolvido com ❤️ por Mario Campello para Agência Cappuccino</strong><br/>
+  <small>🔒 Material Confidencial - Não Distribuir</small>
 </div> 

@@ -7,12 +7,34 @@ e este projeto adere ao [Semantic Versioning](https://semver.org/lang/pt-BR/).
 
 ---
 
+## ⚠️ Material Confidencial
+
+**🔒 CONFIDENCIAL** - Este material é propriedade da **Agência Cappuccino** e foi desenvolvido sob encomenda para a **Bunge Profissional**.
+
+---
+
 ## [Não Lançado]
 
 ### 🔄 Em Desenvolvimento
 - Sistema de A/B testing para campanhas
 - Dashboard de monitoramento em tempo real
 - Otimizações de performance
+
+---
+
+## [1.0.1] - 2025-01-20
+
+### 🔒 Confidencialidade
+- **Adicionado** aviso de material confidencial
+- **Atualizado** informações de autoria e propriedade
+- **Removido** seção de contribuições (projeto privado)
+- **Adicionado** contatos do Mario Campello
+- **Especificado** relação Agência Cappuccino → Bunge Profissional
+
+### 📋 Documentação
+- **Modificado** README principal com informações de confidencialidade
+- **Adicionado** badges de status confidencial
+- **Atualizado** seção de licença e restrições de uso
 
 ---
 
@@ -109,15 +131,29 @@ e este projeto adere ao [Semantic Versioning](https://semver.org/lang/pt-BR/).
 
 ---
 
+## 👨‍💻 Autoria
+
+### 🎨 Criado por
+**Mario Campello**
+- 🌐 **Website**: [campello.me](https://campello.me)
+- 📱 **WhatsApp**: [11 992630805](https://wa.me/5511992630805)
+- 📧 **Email**: [mario@campello.me](mailto:mario@campello.me)
+
+### 🏢 Desenvolvido para
+**Agência Cappuccino** → **Bunge Profissional**
+
+---
+
 ## 🔗 Links
 
 - [Repositório GitHub](https://github.com/mcampello/capp-bunge-emails)
 - [Documentação](docs/README.md)
-- [Issues](https://github.com/mcampello/capp-bunge-emails/issues)
-- [Pull Requests](https://github.com/mcampello/capp-bunge-emails/pulls)
+- [Mario Campello](https://campello.me)
+- [Agência Cappuccino](https://agenciacappuccino.com.br)
 
 ---
 
 <div align="center">
-  <strong>📝 Changelog | Gerador de Emails Fornada de Vantagens</strong>
+  <strong>📝 Changelog | Gerador de Emails Fornada de Vantagens</strong><br/>
+  <small>🔒 Material Confidencial - Desenvolvido por Mario Campello</small>
 </div> 
