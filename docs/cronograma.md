@@ -63,13 +63,13 @@ Estabelecer toda a infraestrutura necessária, contratar serviços e adequar às
 
 ### 📋 Entregas
 
-| Entrega | Descrição | Responsável | Prazo |
-|---------|-----------|-------------|-------|
-| **💼 Contratação de Serviços** | Supabase, OpenAI, SMTP, Minio, servidor | Mario | 5 dias |
-| **🔐 Políticas de Segurança** | Adequação às normas da Bunge | Mario | 3 dias |
-| **🖥️ Setup Servidor** | Configuração servidor de produção | Mario | 4 dias |
-| **📦 Instalação de Softwares** | N8N, Docker, SSL, monitoramento | Mario | 3 dias |
-| **⚙️ Configuração Inicial** | Redes, DNS, backup, segurança | Mario | 3 dias |
+| Entrega | Descrição | Prazo |
+|---------|-----------|-------|
+| **💼 Contratação de Serviços** | Supabase, OpenAI, SMTP, Minio, servidor | 5 dias |
+| **🔐 Políticas de Segurança** | Adequação às normas da Bunge | 3 dias |
+| **🖥️ Setup Servidor** | Configuração servidor de produção | 4 dias |
+| **📦 Instalação de Softwares** | N8N, Docker, SSL, monitoramento | 3 dias |
+| **⚙️ Configuração Inicial** | Redes, DNS, backup, segurança | 3 dias |
 
 ### ✅ Critérios de Aceitação
 
@@ -103,13 +103,13 @@ Desenvolver as funcionalidades core do sistema com infraestrutura já estabeleci
 
 ### 📋 Entregas
 
-| Entrega | Descrição | Responsável | Prazo |
-|---------|-----------|-------------|-------|
-| **🔧 Baserow Setup** | Configuração completa dos formulários | Mario | 5 dias |
-| **⚙️ N8N Workflows** | Workflows básicos para cada tipo de campanha | Mario | 7 dias |
-| **🎨 Templates HTML** | Templates funcionais baseados nos existentes | Mario | 8 dias |
-| **📧 SMTP Config** | Configuração de envio de emails | Mario | 4 dias |
-| **🧪 Testes Integração** | Testes end-to-end básicos | Mario | 3 dias |
+| Entrega | Descrição | Prazo |
+|---------|-----------|-------|
+| **🔧 Baserow Setup** | Configuração completa dos formulários | 5 dias |
+| **⚙️ N8N Workflows** | Workflows básicos para cada tipo de campanha | 7 dias |
+| **🎨 Templates HTML** | Templates funcionais baseados nos existentes | 8 dias |
+| **📧 SMTP Config** | Configuração de envio de emails | 4 dias |
+| **🧪 Testes Integração** | Testes end-to-end básicos | 3 dias |
 
 ### ✅ Critérios de Aceitação
 
@@ -129,13 +129,13 @@ Implementar personalização avançada, segmentação inteligente e sistema comp
 
 ### 📋 Entregas
 
-| Entrega | Descrição | Responsável | Prazo |
-|---------|-----------|-------------|-------|
-| **🤖 LLM Integration** | Geração de conteúdo personalizado | Mario | 6 dias |
-| **🎯 Segmentação** | Sistema de segmentação automática | Mario | 7 dias |
-| **📊 Analytics** | Tracking de abertura e clique | Mario | 6 dias |
-| **🎨 Templates Avançados** | Templates específicos por campanha | Mario | 8 dias |
-| **🖼️ Sistema de Imagens** | Gestão completa de assets | Mario | 4 dias |
+| Entrega | Descrição | Prazo |
+|---------|-----------|-------|
+| **🤖 LLM Integration** | Geração de conteúdo personalizado | 6 dias |
+| **🎯 Segmentação** | Sistema de segmentação automática | 7 dias |
+| **📊 Analytics** | Tracking de abertura e clique | 6 dias |
+| **🎨 Templates Avançados** | Templates específicos por campanha | 8 dias |
+| **🖼️ Sistema de Imagens** | Gestão completa de assets | 4 dias |
 
 ### ✅ Critérios de Aceitação
 
@@ -165,13 +165,13 @@ Otimizar performance, implementar A/B testing, finalizar documentação e prepar
 
 ### 📋 Entregas
 
-| Entrega | Descrição | Responsável | Prazo |
-|---------|-----------|-------------|-------|
-| **🧪 A/B Testing** | Sistema de testes A/B | Mario | 4 dias |
-| **🚀 Performance** | Otimizações e segurança | Mario | 5 dias |
-| **📈 Dashboard** | Interface de monitoramento | Mario | 4 dias |
-| **🧪 Testes Finais** | Testes de carga e segurança | Mario | 3 dias |
-| **📋 Documentação** | Manual completo e treinamento | Mario | 2 dias |
+| Entrega | Descrição | Prazo |
+|---------|-----------|-------|
+| **🧪 A/B Testing** | Sistema de testes A/B | 4 dias |
+| **🚀 Performance** | Otimizações e segurança | 5 dias |
+| **📈 Dashboard** | Interface de monitoramento | 4 dias |
+| **🧪 Testes Finais** | Testes de carga e segurança | 3 dias |
+| **📋 Documentação** | Manual completo e treinamento | 2 dias |
 
 ### ✅ Critérios de Aceitação
 
