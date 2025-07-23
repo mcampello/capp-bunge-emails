@@ -135,15 +135,6 @@ Este projeto foi desenvolvido sob encomenda da Agência Cappuccino para atender 
 
 ---
 
-## 🔗 Links Úteis
-
-- 🏢 **[Bunge Profissional](https://www.bungeprofissional.com.br/)**
-- 🎯 **[Fornada de Vantagens](https://www.fornadadevantagens.com.br/)**
-- 🎨 **[Agência Cappuccino](https://agenciacappuccino.com.br/)**
-- 👨‍💻 **[Mario Campello](https://campello.me/)**
-
----
-
 <div align="center">
   <strong>Desenvolvido com ❤️ por Mario Campello para Agência Cappuccino</strong><br/>
   <small>🔒 Material Confidencial - Não Distribuir</small>
